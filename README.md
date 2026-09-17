@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">
-    STM32F072CBT6 dev board
+    STM32F072CBT6 dev board with usb c
 </h4>
 
 ![pcb](assets/3dinit.png)
