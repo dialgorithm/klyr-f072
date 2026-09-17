@@ -1,0 +1,22 @@
+component, qty, cost, source
+PCB, 5, $11, https://robu.in/product/online-pcb-manufacturing-service/
+100nF 1206 Capacitor, 8, $1, https://robu.in/product/grm31cr72e104kw03l-murata-electronics-250v-100nf-x7r-%c2%b110-1206-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs-2/
+10nF 1206 Capacitor, 2, $1, https://robu.in/product/grm3195c1h103ja01d-murata-electronics-50v-10nf-c0g-%c2%b15-1206-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs-2/
+1uF 1206 Capacitor, 6, $1, https://robu.in/product/grm31cr71h105ka61l-murata-electronics-50v-1uf-x7r-%c2%b110-1206-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs-2/
+4.7uF 1206 Capacitor, 4, $1, https://robu.in/product/gcm31cr71c475ka37l-murata-electronics-16v-4-7uf-x7r-%c2%b110-1206-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs-2/
+15pF 1206 Capacitor, 8, $1, https://robu.in/product/c1206c150j5gacauto-kemet-smd-multilayer-ceramic-capacitor-15-pf-50-v-1206-3216-metric-%c2%b1-5-c0g-np0/
+1206 LED, 4, $1, https://robu.in/product/xl-3216ubc-fb-xinglight-reverse-mount-blue-120-1206-led-indication-discrete-rohs/
+USB C Receptacle HRO type 16pin, 2, $2, https://robu.in/product/type-c-31-m-12-hroparts-5a-1-16p-female-type-c-smd-usb-connectors-rohs/
+2x20 Pin Header, 2, $1, https://robu.in/product/2-54mm-2x20-pin-female-double-row-header-strip-pack-of-5/
+0ohm 1206 Resistor, 12, $1, https://robu.in/product/rc1206jr-070rl-yageo-zero-ohm-resistor-jumper-1206-3216-metric-thick-film-250-mw-2-a-surface-mount-device-pack-of-10/
+5.1k 1206 Resistor, 4, $1, https://robu.in/product/1206w4f5101t5e-uniohm-royal-ohm-250mw-thick-film-resistors-200v-%c2%b1100ppm-%e2%84%83-%c2%b11-5-1k%cf%89-1206-chip-resistor-surface-mount-rohs/
+1k 1206 Resistor, 2, $1, https://robu.in/product/ac1206fr-071kl-yageo-res-thick-film-1206-1k-ohm-1-0-25w1-4w-%c2%b1100ppm-c-pad-smd-t-r-automotive-aec-q200/
+TL3301N Switch, 2, $3.2, https://www.lioncircuits.com/parts/TL3301NF160QG
+STM32F072CBT6 IC, 2, $27, https://www.lioncircuits.com/parts/STM32F072CBT6
+TC1262-3.3VDBTR IC, 2, $4.5, https://robu.in/product/tc1262-3-3vdbtr-microchip-fixed-ldo-voltage-regulator-2-7v-to-6v-350mv-dropout-3-3vout-500maout-sot-223-3/
+8MHz crystal, 2, $1, https://robu.in/product/hc49-s-8mhz-crystal-oscillator-pack-of-5/
+32.768k crystal, 2, $1, https://sharvielectronics.com/product/sf-3215-32-768khz-12-5pf-20ppm-smd-quartz-crystal-sf32k32768d31t-12-5b/
+Flux, 1, $4.5, https://www.amazon.in/SCHOFIC-No-clean-Halogen-free-Soldering-Electronics/dp/B0F4RKKKX7
+Solder Paste (smd), 1, $9.5, https://www.amazon.in/DHRUVPRO-Assembly-Sn63-Pb37-Soldering/dp/B0BBHF1P49/
+Solder Wire, 1, $4.5, https://www.amazon.in/GREENARTZ-Soldering-core-Aluminium-Copper/dp/B0BNLQX91R
+Total, -, $83.5, -
